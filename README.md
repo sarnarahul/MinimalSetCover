@@ -1,10 +1,5 @@
 #Calculating Minimal Set Cover
 
-CSE 373 
-Homework 4
-Coding Challenge 
-Rahul Sarna
-
 Brief explanation of optimizing techniques used:
 
 The first thing I try to do is map the occurrence of numbers listed in the file. 
